@@ -1,0 +1,7 @@
+first create a virtual environment in your code editor
+and you want to keep your haarcascade_frontalface_default.xml in the same folder  
+
+pip install cv2
+pip install face_recognition
+import numpy as np
+
